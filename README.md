@@ -1,6 +1,6 @@
 # 🛠️ @BuildWithNdamu
 
-This is a space dedicated to empowering the community technology skills through multi-medium education.
+This is a space dedicated to empowering communities with essential technology skills for the age of AI (Artificial Intelligence). Learn by watching, reading, and listening.
 
 
 ## Our  Mission
