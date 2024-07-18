@@ -5,18 +5,13 @@ This is a space dedicated to empowering communities with essential technology sk
 
 ## Our  Mission
 
-- 🌟 Empowerment: Equipping learners with the skills to leverage tech in creating impactful solutions.
 - 🧐 Inspiration: Fostering a culture of continuous learning and exploration.
-- 🌐 Accessibility: Making tech education accessible to all, removing barriers to learning.
 - 💡 Community: Building a community of learners, educators, and technologists collaborating to share knowledge and innovate.
+- 🌐 Accessibility: Making tech education accessible to all, removing barriers to learning.
 
 ## Example Projects
 
-- **Interactive Language Learning Tool:** Build a language learning app that uses interactive quizzes to help users learn a new language
-- **Interactive Personal Finance Assisstant:** Build a virtual assisstant which allows you to evaluate your spending habbits without reading through you bank statements.
-- **Build a Translation App for your local languages:** This is an opportunity to learn the basic conepte behind state-of-the-art NLP models like GPT-3, BERT, etc.
-- **Virtual Art Gallery App**: Build an app that allows users to explore a wide range of AI generated art pieces
-- **Government TLDR**: Learn how to build apps to extract key takeaways from government announcements.
+- Coming soon
 
 
 ## Let's Learn Together!
