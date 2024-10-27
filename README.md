@@ -1,4 +1,4 @@
-# 🛠️ @BuildWithNdamu
+# 🛠️ @FutureAIEngineer
 
 This is a space dedicated to empowering communities with essential technology skills for the age of AI (Artificial Intelligence). Learn by watching, reading, and listening.
 
@@ -18,10 +18,10 @@ This is a space dedicated to empowering communities with essential technology sk
 
 Join us in this educational journey. Whether you're a beginner looking to dive into the tech world or an experienced professional seeking to expand your skillset, there's something for everyone here:
 
-- 📺 [YouTube](https://www.youtube.com/@BuildWithNdamu)
+- 📺 [YouTube](https://www.youtube.com/@FutureAIEngineer)
 - 🌐 [Free Courses & Bootcamps](https://learn.ndamulelo.co.za/)
 - 📚 [Blog](https://blog.ndamulelo.co.za/blog/personal-growth/beginner-tech-resources)
-- 🐦 [Twitter](https://twitter.com/BuildWithNdamu)
+- 🐦 [Twitter](https://twitter.com/FutureAIEngineer )
 
 ---
 
